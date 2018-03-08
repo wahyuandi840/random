@@ -1,0 +1,21 @@
+{
+    "name": "wahyuandi840/random",
+    "description": "Library Sederhana Untuk Membuat String Acak",
+    "keywords": [
+        "Random", "String Acak","Membuat String Acak Dengan PHP"
+    ],
+    "license": "MIT",
+    "authors": [  
+        {
+            "name": "Wahyu Andi Rejeki",
+            "email": "wahyuandi840@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wahyu\\": "src"
+        }
+    }
+}
