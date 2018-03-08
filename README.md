@@ -1,6 +1,5 @@
 # random
 Libary Sederhana Untuk Membuat String Acak
-```
 Download package dengan composer
 ```
 composer require wahyuandi840/random
